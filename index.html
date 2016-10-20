@@ -1,0 +1,242 @@
+
+	    <html>
+	      <head>
+				  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	        <title>README</title>
+					
+					<link href="toc/style/github-bf51422f4bb36427d391e4b75a1daa083c2d840e.css" media="all" rel="stylesheet" type="text/css"/>
+					<link href="toc/style/github2-d731afd4f624c99a4b19ad69f3083cd6d02b81d5.css" media="all" rel="stylesheet" type="text/css"/>
+					<link href="toc/css/zTreeStyle/zTreeStyle.css" media="all" rel="stylesheet" type="text/css"/>
+			
+				  <style>
+					pre {
+					    counter-reset: line-numbering;
+					    border: solid 1px #d9d9d9;
+					    border-radius: 0;
+					    background: #fff;
+					    padding: 0;
+					    line-height: 23px;
+					    margin-bottom: 30px;
+					    white-space: pre;
+					    overflow-x: auto;
+					    word-break: inherit;
+					    word-wrap: inherit;
+					}
+
+					pre a::before {
+					  content: counter(line-numbering);
+					  counter-increment: line-numbering;
+					  padding-right: 1em; /* space after numbers */
+					  width: 25px;
+					  text-align: right;
+					  opacity: 0.7;
+					  display: inline-block;
+					  color: #aaa;
+					  background: #eee;
+					  margin-right: 16px;
+					  padding: 2px 10px;
+					  font-size: 13px;
+					  -webkit-touch-callout: none;
+					  -webkit-user-select: none;
+					  -khtml-user-select: none;
+					  -moz-user-select: none;
+					  -ms-user-select: none;
+					  user-select: none;
+					}
+
+					pre a:first-of-type::before {
+					  padding-top: 10px;
+					}
+
+					pre a:last-of-type::before {
+					  padding-bottom: 10px;
+					}
+
+					pre a:only-of-type::before {
+					  padding: 10px;
+					}
+			
+					.highlight { background-color: #ffffcc } /* RIGHT */
+					</style>
+	      </head>
+	      <body>
+				  <div>
+							<div style='width:25%;'>
+									<ul id="tree" class="ztree" style='width:100%'>
+		
+									</ul>
+							</div>
+			        <div id='readme' style='width:70%;margin-left:20%;'>
+			          	<article class='markdown-body'>
+			            	<style>.highlight .hll { background-color: #ffffcc }
+.highlight  { background: #f0f0f0; }
+.highlight .c { color: #60a0b0; font-style: italic } /* Comment */
+.highlight .err { border: 1px solid #FF0000 } /* Error */
+.highlight .k { color: #007020; font-weight: bold } /* Keyword */
+.highlight .o { color: #666666 } /* Operator */
+.highlight .cm { color: #60a0b0; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #007020 } /* Comment.Preproc */
+.highlight .c1 { color: #60a0b0; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #60a0b0; background-color: #fff0f0 } /* Comment.Special */
+.highlight .gd { color: #A00000 } /* Generic.Deleted */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gr { color: #FF0000 } /* Generic.Error */
+.highlight .gh { color: #000080; font-weight: bold } /* Generic.Heading */
+.highlight .gi { color: #00A000 } /* Generic.Inserted */
+.highlight .go { color: #888888 } /* Generic.Output */
+.highlight .gp { color: #c65d09; font-weight: bold } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #800080; font-weight: bold } /* Generic.Subheading */
+.highlight .gt { color: #0044DD } /* Generic.Traceback */
+.highlight .kc { color: #007020; font-weight: bold } /* Keyword.Constant */
+.highlight .kd { color: #007020; font-weight: bold } /* Keyword.Declaration */
+.highlight .kn { color: #007020; font-weight: bold } /* Keyword.Namespace */
+.highlight .kp { color: #007020 } /* Keyword.Pseudo */
+.highlight .kr { color: #007020; font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #902000 } /* Keyword.Type */
+.highlight .m { color: #40a070 } /* Literal.Number */
+.highlight .s { color: #4070a0 } /* Literal.String */
+.highlight .na { color: #4070a0 } /* Name.Attribute */
+.highlight .nb { color: #007020 } /* Name.Builtin */
+.highlight .nc { color: #0e84b5; font-weight: bold } /* Name.Class */
+.highlight .no { color: #60add5 } /* Name.Constant */
+.highlight .nd { color: #555555; font-weight: bold } /* Name.Decorator */
+.highlight .ni { color: #d55537; font-weight: bold } /* Name.Entity */
+.highlight .ne { color: #007020 } /* Name.Exception */
+.highlight .nf { color: #06287e } /* Name.Function */
+.highlight .nl { color: #002070; font-weight: bold } /* Name.Label */
+.highlight .nn { color: #0e84b5; font-weight: bold } /* Name.Namespace */
+.highlight .nt { color: #062873; font-weight: bold } /* Name.Tag */
+.highlight .nv { color: #bb60d5 } /* Name.Variable */
+.highlight .ow { color: #007020; font-weight: bold } /* Operator.Word */
+.highlight .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight .mb { color: #40a070 } /* Literal.Number.Bin */
+.highlight .mf { color: #40a070 } /* Literal.Number.Float */
+.highlight .mh { color: #40a070 } /* Literal.Number.Hex */
+.highlight .mi { color: #40a070 } /* Literal.Number.Integer */
+.highlight .mo { color: #40a070 } /* Literal.Number.Oct */
+.highlight .sb { color: #4070a0 } /* Literal.String.Backtick */
+.highlight .sc { color: #4070a0 } /* Literal.String.Char */
+.highlight .sd { color: #4070a0; font-style: italic } /* Literal.String.Doc */
+.highlight .s2 { color: #4070a0 } /* Literal.String.Double */
+.highlight .se { color: #4070a0; font-weight: bold } /* Literal.String.Escape */
+.highlight .sh { color: #4070a0 } /* Literal.String.Heredoc */
+.highlight .si { color: #70a0d0; font-style: italic } /* Literal.String.Interpol */
+.highlight .sx { color: #c65d09 } /* Literal.String.Other */
+.highlight .sr { color: #235388 } /* Literal.String.Regex */
+.highlight .s1 { color: #4070a0 } /* Literal.String.Single */
+.highlight .ss { color: #517918 } /* Literal.String.Symbol */
+.highlight .bp { color: #007020 } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #bb60d5 } /* Name.Variable.Class */
+.highlight .vg { color: #bb60d5 } /* Name.Variable.Global */
+.highlight .vi { color: #bb60d5 } /* Name.Variable.Instance */
+.highlight .il { color: #40a070 } /* Literal.Number.Integer.Long */</style>
+<h1>i5ting</h1>
+
+<h2>姓名</h2>
+
+<p>桑世龙（网名i5ting）</p>
+
+<ul>
+<li>https://cnodejs.org/user/i5ting</li>
+<li>https://github.com/i5ting</li>
+</ul>
+
+<h2>个人高清照片</h2>
+
+<p><img src="IMG_4553.png" alt="IMG 4553"></p>
+
+<h2>个人简介</h2>
+
+<p>桑世龙（网名i5ting），某科技公司 CTO，StuQ 明星讲师，开源项目 Moajs 作者，Node.js 技术布道者，Node全栈公众号运营者</p>
+
+<p>曾就职在新浪、网秦，曾做过前端、后端、数据分析、移动端负责人、做过首席架构师、技术总监，全栈技术实践者，目前主要关注技术架构和团队梯队建设方向。</p>
+
+<p>即将出版《更了不起的Node.js：将下一代web框架Koa进行到》《Node.js微信开发》，翻译《Developing a gulp Edge》一书</p>
+
+<h2>cnode精华帖</h2>
+
+<ul>
+<li>Node.js写爬虫系列  https://cnodejs.org/topic/57c529cf9b447b634391c814</li>
+<li>三个分享——异步流程控制 / Modern Node.js/Java项目如何与Node.js共存  https://cnodejs.org/topic/578c7c94992ec53c14676735</li>
+<li>co 4.6源码解析 https://cnodejs.org/topic/576bdffa889605241796f7d9</li>
+<li>AVA实践：面向未来的测试运行器 https://cnodejs.org/topic/57464cd8da0dea851e308101</li>
+<li>科普文：模板引擎 https://cnodejs.org/topic/57353cc040b2969853981250</li>
+<li>koa 2 vs koa 1 vs express 压测性能大比拼  https://cnodejs.org/topic/5728267f3f27a7c841bcb88e</li>
+<li>如何评价Uber不用Node.js，而用Go语言构建地理查询服务？ https://cnodejs.org/topic/571cf4c7fa48138c41110d54</li>
+<li>Stream学习资料 https://cnodejs.org/topic/570b1fa494b38dcb3c09a7f8 </li>
+<li>一名全栈工程师Node.js之路 https://cnodejs.org/topic/56f33de702c237a73a1a8ab1</li>
+<li>国内Nodejs 2015汇总 https://cnodejs.org/topic/5696e43e6272216e51bff67e</li>
+<li>Moajs框架演进之路 https://cnodejs.org/topic/567e2388aacb6923221de469</li>
+<li>科普：express文件上传、上传到七牛 https://cnodejs.org/topic/56792a7a7c6184e94a9d73d0</li>
+<li>发个半成品的react入门 https://cnodejs.org/topic/565935ff3cda7a91276ff766</li>
+<li>Gulp实战和原理解析（以weui作为项目实例） https://cnodejs.org/topic/561f8c8f3f4d1fb610995bd8</li>
+<li>Visual Studio Code Guide升级版（持续更新中） https://cnodejs.org/topic/56192cab41ceb58c4f8e6e67</li>
+<li>Node.js最新技术栈之Promise篇 https://cnodejs.org/topic/560dbc826a1ed28204a1e7de</li>
+<li>mongodb备份-mmb使用说明和如何导出更可读的csv https://cnodejs.org/topic/55d9e4f77bfbf9fc0f1ce51b</li>
+<li>mongoose-cli https://cnodejs.org/topic/55c44f0db98f51142b367b54 </li>
+<li>nodejs里的repl https://cnodejs.org/topic/55c2ba865965fe2c74f478ac</li>
+<li>Moa-api：快速开发api类后端的框架（适用于angular、ionic后端） https://cnodejs.org/topic/55c1fa095965fe2c74f477f7</li>
+<li>从npm tips到express插件机制设计 https://cnodejs.org/topic/559ba9221e5c761761468859</li>
+<li>mongodb分页优化 https://cnodejs.org/topic/559a0bf493cb46f578f0a601</li>
+<li>负载均衡：haproxy，slb以及node-slb  https://cnodejs.org/topic/55921e6950946a072452564d</li>
+<li>mongodb运维之副本集实践 https://cnodejs.org/topic/5590adbbebf9c92d17e734de</li>
+<li>Nodejs开源项目里怎么样写测试、CI和代码测试覆盖率 https://cnodejs.org/topic/558df089ebf9c92d17e73358</li>
+<li>sails vs meteor之sails篇 https://cnodejs.org/topic/558b6b92c31358754d3aa3cd</li>
+<li>Koa 还是 Express？ https://cnodejs.org/topic/55815f28395a0c1812f18257</li>
+<li>Nodejs RESTFul架构实践之api篇 https://cnodejs.org/topic/557d647216839d2d53936351</li>
+<li>Nodejs RESTFul架构实践 https://cnodejs.org/topic/55778225c4e7fbea6e9a3357</li>
+<li>Node.js最新Web技术栈（2015年5月） https://cnodejs.org/topic/55651bf07d4c64752effb4b1</li>
+<li>如何选择nodejs和iojs？以及性能比较 https://cnodejs.org/topic/555ca227e684c4c8088a0d16</li>
+<li>如何展望未来的前端 https://cnodejs.org/topic/55560e717cabb7b45ee6bc62</li>
+<li>客户端 API 开发总结 https://cnodejs.org/topic/552b3b9382388cec50cf6d95</li>
+<li>node-debug 三法三例之node debugger + node inspector https://cnodejs.org/topic/5463f6e872f405c829029f7e</li>
+<li>how-to-write-a-node-cli-tools-with-commander https://cnodejs.org/topic/545ac6f53e1f39344c5b3adb</li>
+<li>测试驱动来学习mongoose https://cnodejs.org/topic/54578d9b6537f4d52c414e09</li>
+<li>你会考虑用它么？mini-obj https://cnodejs.org/topic/54635a4f72f405c829029f3a</li>
+</ul>
+
+<h2>开源项目</h2>
+
+<ul>
+<li>Moajs 框架： https://github.com/moajs/moa2</li>
+<li>高可用架构专用《全栈工程师之路-Node.js》 https://github.com/i5ting/nodejs-fullstack/</li>
+<li>《深入浅出js（Node.js）异步流程控制》 https://github.com/i5ting/asynchronous-flow-control</li>
+<li>《微服务选型之Modern Node.js》 https://github.com/i5ting/modern-nodejs</li>
+<li>《Java项目如何与Node.js共存？》https://github.com/i5ting/nodejs-arch-for-java</li>
+<li>《狼叔带你一起玩转微信应用号》  https://github.com/i5ting/stuq-wxapp</li>
+<li>《下一代web框架Koajs》https://github.com/i5ting/stuq-koa</li>
+<li>《Node.js微信开发》 https://github.com/i5ting/wechat-dev-with-nodejs</li>
+<li>《精解http》 https://github.com/i5ting/oh-http</li>
+<li>《Visual Studio Code Guide简体中文》https://github.com/i5ting/vsc</li>
+<li>《通过开源项目去学习》 https://github.com/i5ting/Study-For-StuQ</li>
+</ul>
+
+<h2>更多活动照片</h2>
+
+<p>https://github.com/i5ting/me</p>
+
+			          	</article>
+			        </div>
+					</div>
+	      </body>
+	    </html>
+			<script type="text/javascript" src="toc/js/jquery-1.4.4.min.js"></script>
+			<script type="text/javascript" src="toc/js/jquery.ztree.all-3.5.min.js"></script>
+			<script type="text/javascript" src="toc/js/ztree_toc.js"></script>
+      <script type="text/javascript" src="toc/toc_conf.js"></script>
+      
+			<SCRIPT type="text/javascript" >
+			<!--
+			$(document).ready(function(){
+          var css_conf = eval(markdown_panel_style);
+          $('#readme').css(css_conf)
+          
+          var conf = eval(jquery_ztree_toc_opts);
+  				$('#tree').ztree_toc(conf);
+
+				
+			});
+			//-->
+			</SCRIPT>
+	  
