@@ -43,8 +43,8 @@
 - 2012年4月，主要是iOS成长，原生开发和hybrid（phonegap和各种h5框架）都非常了解，完成appledoc，markdown和文档输出转换
 - 泰然翻译小组成员，负责翻译和review与cocos2D相关的文档和书籍。
 - 2013年加入新浪，负责新浪财经客户端
-- 2014和2015年加入国信灵通（网秦子公司），技术总监，首席架构师，负责多个移动端（mim，mam，mcm，mdm，mem）、h5、im项目，主管架构与培训
-- 2015年4月到2016年6月，空弦科技CTO，负责公司所有技术相关工作，主要是Node.js，mongodb，redis，grpc，consul，kong等，开源moajs框架
+- 2014和2015年加入国信灵通（网秦子公司），技术总监，首席架构师，负责多个移动端（mim，mam，mcm，mdm，mem）、h5、im、hadoop项目，主管架构与培训
+- 2015年4月到2016年6月，空弦科技CTO，负责公司所有技术、微服务相关工作，主要是Node.js，mongodb，redis，grpc，consul，kong，es等，开源moajs框架
 - 2016年6月至今，翻译了一本gulp书，给StuQ讲了一些Node和前端的课
 
 ## 开源项目
