@@ -1,5 +1,7 @@
 # i5ting
 
+个人简历
+
 ## 姓名
 
 桑世龙（网名i5ting）
@@ -9,7 +11,7 @@
 
 ## 个人高清照片
 
-<img src='images/IMG_4553.png' width='300px' height='500px' />
+<img src='images/IMG_4553.png' width='400px' height='500px' />
 
 ## 个人简介
 
