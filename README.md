@@ -129,3 +129,8 @@
 更多活动照片
 
 https://github.com/i5ting/me
+
+## 联系我
+
+- 电话： 17795195379（微信也是）
+- E-mail ： i5ting@126.com
