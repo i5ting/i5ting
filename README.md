@@ -9,7 +9,7 @@
 
 ## 个人高清照片
 
-![IMG 4553](IMG_4553.png)
+<img src='images/IMG_4553.png' width='500px' height='500px' />
 
 ## 个人简介
 
