@@ -1,8 +1,6 @@
 # 个人简历
 
-## 姓名
-
-桑世龙（网名i5ting）
+桑世龙（网名i5ting，江湖人称狼叔）
 
 - https://cnodejs.org/user/i5ting
 - https://github.com/i5ting
