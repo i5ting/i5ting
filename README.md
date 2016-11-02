@@ -11,6 +11,8 @@
 
 <img src='images/IMG_4553.png' width='400px' height='500px' />
 
+<img src='images/2016开源年会.jpg' width='400px' height='500px' />
+
 ## 个人简介
 
 桑世龙（网名i5ting，江湖人称狼叔），某科技公司前CTO，StuQ 明星讲师，开源项目 Moajs 作者，Node.js 技术布道者，Node全栈公众号运营者
