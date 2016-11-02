@@ -11,7 +11,7 @@
 
 <img src='images/IMG_4553.png' width='400px' height='500px' />
 
-<img src='images/2016开源年会.jpg' width='800px' height='500px' />
+<img src='images/2016开源年会.jpg' width='700px' height='500px' />
 
 ## 个人简介
 
