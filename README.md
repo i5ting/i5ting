@@ -85,6 +85,7 @@
 - [今晚直播 | 前端老司机带你实现小程序 CNode 社区](https://www.oschina.net/news/77638/weixin-app-to-cnode)
 - [2016年10月14日，天津gdg](http://mp.weixin.qq.com/s?__biz=MzA3MzcxNDYzOQ==&mid=2649881757&idx=1&sn=7d127b9eae3ed8b2cd90b8e5725637db&chksm=870f823db0780b2b70138550e1178122a14104a2343e3803e64e1cd73bd77e19232761bda787&mpshare=1&scene=1&srcid=1101ehS6xCM975YN1pvyhlIM#rd)
 - [2016年10月15日，北京中国开源年会](http://www.huodongxing.com/event/6353148815000?forcerefresh=true&preview=true&layout=Single)
+- [2016年11月18日，StuQ大咖说，采访vue作者尤雨溪](http://mp.weixin.qq.com/s/JqUTfG7z2QLQ6-Q0Mj5bDQ)
 
 更多活动照片
 
