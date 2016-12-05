@@ -87,6 +87,7 @@
 - [2016年10月15日，北京中国开源年会](http://www.huodongxing.com/event/6353148815000?forcerefresh=true&preview=true&layout=Single)
 - [2016年11月18日，StuQ大咖说，采访vue作者尤雨溪](http://mp.weixin.qq.com/s/JqUTfG7z2QLQ6-Q0Mj5bDQ)
 - [gitc全球互联网技术大会，11月24日，北京国家会议中心，分享更了不起的Node.js-桑世龙.pptx](http://www.thegitc.com/schedule#9)
+- [天津敏捷之旅分享：移动端开发，你需要敏捷](https://github.com/i5ting/glorious-node)
 
 更多活动照片
 
