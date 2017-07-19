@@ -28,8 +28,9 @@
 - 神州数码思特奇
 - 财新传媒
 - 新浪网
-- 国信灵通（网秦子公司）
-- 空弦科技
+- 国信灵通（网秦子公司）技术总监
+- 空弦科技：cto
+- 去哪儿网：架构师
 
 ## 个人经历：
 
@@ -80,7 +81,6 @@
 
 - imweb腾讯深圳，9月份，已收到邀请
 - iweb峰会，北京国家会议中心，8月份，已收到邀请
-- [Oracle Code北京7 月 14 日](https://developer.oracle.com/code/beijing)
 - [Oracle Code北京7 月 14 日](https://developer.oracle.com/code/beijing)
 - [2017年06月24日 HTML5梦工场 &微软开发者沙龙第10期——北京——前端那些事儿](http://www.html5dw.com/event/4477)
 - [2016年3月26日北京 NodeParty](https://cnodejs.org/topic/56f8ce05e2d0ba0b32388717)
