@@ -46,6 +46,7 @@
 - 2014和2015年加入国信灵通（网秦子公司），技术总监，首席架构师，负责多个移动端（mim，mam，mcm，mdm，mem）、h5、im、hadoop项目，主管架构与培训
 - 2015年4月到2016年6月，空弦科技CTO，负责公司所有技术、微服务相关工作，主要是Node.js，mongodb，redis，grpc，consul，kong，es等，开源moajs框架
 - 2016年6月至今，翻译了一本gulp书，给StuQ讲了一些Node和前端的课
+- 2016年12底，加入去哪儿网，前端架构师
 
 ## 开源项目
 
@@ -77,6 +78,11 @@
 
 ## 参与的活动
 
+- imweb腾讯深圳，9月份，已收到邀请
+- iweb峰会，北京国家会议中心，8月份，已收到邀请
+- [Oracle Code北京7 月 14 日](https://developer.oracle.com/code/beijing)
+- [Oracle Code北京7 月 14 日](https://developer.oracle.com/code/beijing)
+- [2017年06月24日 HTML5梦工场 &微软开发者沙龙第10期——北京——前端那些事儿](http://www.html5dw.com/event/4477)
 - [2016年3月26日北京 NodeParty](https://cnodejs.org/topic/56f8ce05e2d0ba0b32388717)
 - [2016年5月7日天津 SegmentFault D-Day](https://segmentfault.com/e/1160000004637487)
 - [2016年5月21日北京 Node.js Live](http://live.nodejs.org/zh-CN/events/beijing.html)
