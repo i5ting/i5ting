@@ -5,6 +5,8 @@
 - https://cnodejs.org/user/i5ting
 - https://github.com/i5ting
 
+擅长的技术见 https://github.com/i5ting/ama ，欢迎提问
+
 ## 个人高清照片
 
 <img src='images/IMG_4553.png' width='400px' height='500px' />
@@ -79,8 +81,8 @@
 
 ## 参与的活动
 
-- imweb腾讯深圳，9月份，已收到邀请
-- iweb峰会，北京国家会议中心，8月份，已收到邀请
+- [imweb腾讯深圳，9月份](http://imweb.io/topic/5975bf1152e1c21811630619)
+- [iweb峰会，北京国家会议中心](http://www.huodongxing.com/event/5393043891500)
 - [Oracle Code北京7 月 14 日](https://developer.oracle.com/code/beijing)
 - [2017年06月24日 HTML5梦工场 &微软开发者沙龙第10期——北京——前端那些事儿](http://www.html5dw.com/event/4477)
 - [2016年3月26日北京 NodeParty](https://cnodejs.org/topic/56f8ce05e2d0ba0b32388717)
