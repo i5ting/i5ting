@@ -82,6 +82,11 @@
 
 ## 参与的活动
 
+- TLC 2020 https://2020.tlc.ivweb.io/
+- 第十五届D2：从需求生成代码？D2 最具争议的分享，你值得来瞄一眼
+- 第十四届D2：前端新思路：组件即服务和 Serverless SSR 实践
+- 2019 GMTC Node实战
+- QCon广州2019|全球软件开发大会
 - [imweb腾讯深圳，9月份](http://imweb.io/topic/5975bf1152e1c21811630619)
 - [iweb峰会，北京国家会议中心](http://www.huodongxing.com/event/5393043891500)
 - [Oracle Code北京7 月 14 日](https://developer.oracle.com/code/beijing)
