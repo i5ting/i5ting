@@ -14,7 +14,7 @@
 
 曾就职在新浪、网秦，曾做过前端、后端、数据分析、移动端负责人、做过架构师、技术总监，全栈技术实践者，目前主要关注技术架构和团队梯队建设方向。
 
-翻译《Developing a gulp Edge》一书，出版狼书3卷
+已出版狼书2卷
 
 - 《狼书（卷1）：更了不起的Node.js》 https://item.jd.com/12623248.html
 - 《狼书（卷2）：Node.js Web应用开发》https://item.jd.com/12614927.html
@@ -44,10 +44,13 @@
 - 2012年4月，主要是iOS成长，原生开发和hybrid（phonegap和各种h5框架）都非常了解，完成appledoc，markdown和文档输出转换。泰然翻译小组成员，负责翻译和review与cocos2D相关的文档和书籍。
 - 2013年加入新浪，负责新浪财经客户端
 - 2014和2015年加入国信灵通（网秦子公司），技术总监，首席架构师，负责多个移动端（mim，mam，mcm，mdm，mem）、h5、im、hadoop项目，主管架构与培训
-- 2015年4月到2016年6月，空弦科技CTO，负责公司所有技术、微服务相关工作，主要是Node.js，mongodb，redis，grpc，consul，kong，es等，开源moajs框架
-- 2016年6月至今，翻译了一本gulp书，给StuQ讲了一些Node和前端的课
+- 2015年4月到2016年6月，空弦科技CTO，负责公司所有技术、微服务相关工作，主要是Node.js，mongodb，redis，grpc，consul，kong，es等，开源moajs框架。翻译了一本gulp书《Developing a gulp Edge》，给StuQ讲了一些Node和前端的课
 - 2016年12底，加入去哪儿网，前端架构师
-- 2017年10底，加入阿里巴巴，前端技术专家
+- 2017年10底加入阿里巴巴，前端技术专家
+  - 2018年优酷双十一前端一号位
+  - 2019年开源 https://github.com/ykfe/egg-react-ssr  1.8k star
+  - 2020年开源 https://github.com/ykfe/ssr   1.4k star
+  - 2021年开源 https://github.com/ykfe/imove   3.2k star
 
 ## 开源项目
 
