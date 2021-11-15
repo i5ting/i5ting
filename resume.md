@@ -1,15 +1,6 @@
 
 # 个人简历
 
-桑世龙（网名i5ting，江湖人称狼叔）
-
-- https://cnodejs.org/user/i5ting
-- https://github.com/i5ting
-
-擅长的技术见 https://github.com/i5ting/ama ，欢迎提问
-
-## 个人简介
-
 桑世龙（网名i5ting，江湖人称狼叔）现为阿里巴巴前端技术专家，负责淘宝营销工具业务，前去哪儿网前端架构师，某科技创业公司前CTO，StuQ 明星讲师，Node.js 技术布道者，Node全栈公众号运营者
 
 曾就职在新浪、网秦，曾做过前端、后端、数据分析、移动端负责人、做过架构师、技术总监，全栈技术实践者，目前主要关注技术架构和团队梯队建设方向。
@@ -104,10 +95,6 @@
 - [天津敏捷之旅分享：移动端开发，你需要敏捷](https://github.com/i5ting/glorious-node)
 - [12月16日，北京，giac大会顾问](http://2016.thegiac.com/)
 - [受邀参加知乎live：大前端和 Node.js 那些事，五星](https://www.zhihu.com/lives/802472054787043328)
-更多活动照片
-
-https://github.com/i5ting/me
-
 
 ## 联系我
 
